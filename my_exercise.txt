@@ -1,4 +1,10 @@
 This is a sample file for git works
+<<<<<<< HEAD
 My name is Jaison
 
 for testing stash
+=======
+My name is Jaison Baby
+
+
+>>>>>>> new
